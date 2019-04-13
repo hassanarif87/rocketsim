@@ -1,0 +1,18 @@
+Lenght,         1.363
+Cone Lenght, 	0.425
+Diameter,       0.102
+Number of Fins, 3
+Fin height, 	127e-3
+Fin base length,152.40e-3
+Fin top length,	44.45e-3
+Fin Sweep angle,29.794
+Fin thickness, 	3e-3
+Mass,           2.33
+Ixx,            0.0032
+Iyy,            0.4090
+Izz,            0.4090
+Xcm,            0.840
+Launchpin height, 10e-3
+Launchpin Dia,    10e-3
+Rail angle,       89
+AeroTech_H242.eng, 0
